@@ -1,0 +1,9 @@
+LOAD_VAL 0   
+
+LOOP 5
+    LOAD_VAL 1
+    ADD
+END_LOOP
+
+RETURN
+
